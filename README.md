@@ -10,4 +10,5 @@ Make digital system of digital clock using verilog
 
 
 
-###Please contact to lim19970929@naver.com or lim19970929@gmail.com to use this code!
+
+### Please contact to lim19970929@naver.com or lim19970929@gmail.com to use this code!
