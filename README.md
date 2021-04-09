@@ -9,4 +9,5 @@ Make digital system of digital clock using verilog
 - 각각의 verilog module은 모두 test bench를 통해 검정을 모두 완료하였으며 Synthesizable하다. 
 
 
-* Please contact to lim19970929@naver.com or lim199709292@gmail.com to use this code!
+
+###Please contact to lim19970929@naver.com or lim19970929@gmail.com to use this code!
